@@ -1,0 +1,46 @@
+{
+    "navbar": [{
+            "id": "1",
+            "name": "Home"
+        },
+        {
+            "id": "2",
+            "name": "Overview"
+        },
+        {
+            "id": "3",
+            "name": "Exchange"
+        },
+        {
+            "id": "4",
+            "name": "Staking"
+        },
+        {
+            "id": "5",
+            "name": "Panel"
+        }
+    ],
+    "swiperData" : [{
+            "id": "1",
+            "title": "BITCOIN IMAGE",
+            "image": "../assets/images/btc.jpg"
+        },
+        {
+            "id": "2",
+            "title": "ETHERIUM IMAGE",
+            "image": "../assets/images/eth.jpg"
+        },
+        {
+            "id": "3",
+            "title": "SISHISWAP IMAGE",
+            "image": "../assets/images/sushi.jpg"
+        },
+        {
+            "id": "4",
+            "title": "XRP IMAGE",
+            "image": "../assets/images/xrp.jpg"
+        }
+    ]
+
+
+}

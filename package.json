@@ -1,0 +1,24 @@
+{
+  "name": "rezome",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "sass-dev": "sass --watch --update --style=expanded assets/scss:assets/css",
+    "sass-prod": "sass --no-source-map --style=compressed assets/scss:assets/css",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "json-server": "^0.17.3",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swiper": "^10.3.0"
+  },
+  "devDependencies": {
+    "sass": "^1.67.0"
+  }
+}
